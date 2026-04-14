@@ -1,0 +1,12 @@
+# Supabase CLI local state
+supabase/.branches/
+supabase/.temp/
+
+# IDE / OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log

@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install:*)",
+      "Bash(npx expo:*)",
+      "Bash(npx tailwindcss:*)",
+      "Bash(cmd.exe //c \"where docker 2>nul & where supabase 2>nul\")",
+      "Bash(npx --yes expo-doctor@latest)",
+      "Bash(docker --version)",
+      "Bash(supabase --version)",
+      "Bash(docker info:*)",
+      "Bash(supabase start:*)"
+    ]
+  }
+}
